@@ -8,6 +8,7 @@
 }
 
 .embed-video {
+    transform: translate(1%, 1%);
     width: 98%;
     height: 500px;
     border-radius: 20px;
